@@ -1,0 +1,13 @@
+.board {
+    align-content: center;
+}
+
+td {
+    border: 6px black solid;
+    align-content: center;
+    width: 100px;
+    height: 100px;
+    margin: 0%;
+    text-align: center;
+    font-size: 40px;
+}
